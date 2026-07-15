@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Personal Expense Tracker</string>
+
+    <string name="log_expense">Log Expense</string>
+    <string name="expense_title">Title</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expense_note">Note(Optional)</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="expense_list">Expense List</string>
+    <string name="no_expense_log">No Expense log</string>
+</resources>
