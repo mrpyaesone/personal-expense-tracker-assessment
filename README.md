@@ -1,6 +1,6 @@
-# Pro-Expense
+# Personal-Expense-Tracker
 
-Pro-Expense is a modern Android application designed to track and manage personal expenses efficiently. Built with the latest Android development practices, it focuses on performance, scalability, and a seamless user experience.
+Personal-Expense-Tracker is a modern Android application designed to track and manage personal expenses efficiently. Built with the latest Android development practices, it focuses on performance, scalability, and a seamless user experience.
 
 ## 🚀 Core Technologies
 
